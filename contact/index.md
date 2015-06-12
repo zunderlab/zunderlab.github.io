@@ -1,10 +1,10 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Zunder Lab
 layout: default
 group: contact
 ---
 
-# Contact the Fraser Lab
+# Contact the Zunder Lab
 
 
 <div class="row">
