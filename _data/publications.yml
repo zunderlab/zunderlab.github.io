@@ -523,60 +523,60 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Fagotto Lab"
       url: 'http://biology.mcgill.ca/faculty/fagotto/'
 
-- citation: '**Fraser JS**, Clarkson MW, Degnan SC, Erion R, Kern D, Alber T. Hidden alternative structures of proline isomerase essential for catalysis. *Nature*. 2009.'
-  date: 200912
+- citation: 'Bodenmiller B\*, **Zunder ER**\*, Finck R\*, Chen TJ, Savig ES, Bruggner RV, Simonds EF, Bendall SC, Sachs K, Krutzik PO, Nolan GP. Multiplexed mass cytometry profiling of cellular states perturbed by small-molecule regulators. *Nature Biotechnology*. 2012.'
+  date: 201209
   image: '/static/img/pub/fraser_nature_2009.jpg'
-  pmid: 19956261
-  pmcid: PMC2805857
-  pdf: '/static/pdf/fraser_nature_2009.pdf'
-  pdbs:
-    - 3K0M
-    - 3K0N
-    - 3K0O
-    - 3K0P
-    - 3K0Q
-    - 3K0R
+  pmid: 22902532
+  pmcid: PMC3627543
+  pdf: '/static/pdf/Bodenmiller, Zunder, and Finck 2012 Nature Biotechnology.pdf'
   links:
+    - name: "Nolan Lab"
+      url: 'http://web.stanford.edu/group/nolan/'
     - name: "Nature: Editor's Summary"
       url: 'http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html'
-    - name: "QB3: QB3 scientists pin down shape-changing enzyme"
-      url: 'http://qb3.org/news/archive/2009/qb3-scientists-pin-down-shape-changing-enzyme'
-    - name: "Chemical & Engineering News: Crystallographic Noise Characterizes Enzyme"
-      url: 'http://pubs.acs.org/isubscribe/journals/cen/87/i49/html/8749scic4.html'
-    - name: "Conformational Flux: Alternate Structures and Catalysis in Cyclophilin"
-      url: 'http://conflux.mwclarkson.com/2009/12/alternate-structures-and-catalysis-in-cyclophilin/'
-    - name: "Faculty 1000 evaluation"
-      url: 'http://f1000.com/1309961'
+    - name: "Nature Methods Research Highlights"
+      url: 'http://www.nature.com/nmeth/journal/v9/n10/full/nmeth.2200.html'
+    - name: "No-Mo-Slow-Flow"
+      url: 'http://www.the-scientist.com/?articles.view/articleNo/31538/title/No-Mo--Slow-Flow/'
 
-- citation: '**Fraser JS**, Maxwell KL, Davidson, AR. Immunoglobulin-Like Domains on Bacteriophage: Weapons of Modest Damage? *Current Opinion in Microbiology.* 2007.'
-  date: 200708
+- citation: 'Cheng CK, Gustafson WC, Charron E, Houseman BT, **Zunder ER**, Goga A, Gray NS, Pollok B, Oakes SA, James CD, Shokat KM, Weiss WA, Fan QW. Dual blockade of lipid and cyclin-dependent kinases induces synthetic lethality in malignant glioma. *Proceedings of the National Academy of Sciences, USA.* 2012.'
+  date: 201207
   image: '/static/img/pub/fraser_comb_2007.jpg'
-  pmid: 17765600
-  pdf: '/static/pdf/fraser_comb_2007.pdf'
+  pmid: 22802621
+  pmcid: PMC3411950
+  pdf: '/static/pdf/Cheng 2012 PNAS.pdf'
   links:
-    - name: "Davidson Lab"
-      url: 'http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html'
+    - name: "Weissman Lab"
+      url: 'http://shokatlab.ucsf.edu/'
 
-- citation: '**Fraser JS\***, Merlie Jr. JP\*, Echols N\*, Weisfield SR, Mignot T, Wemmer DE, Zusman D, Alber T. An atypical receiver domain controls the dynamic polar localization of the Myxococcus xanthus social motility protein FrzS. *Molecular Microbiology*. 2007.'
-  date: 200707
+- citation: '**Zunder ER**, Knight ZA, Houseman BT, Apsel B, Shokat KM. Discovery of drug-resistant and drug-sensitizing mutations in the oncogenic PI3K isoform p110alpha. *Cancer Cell*. 2008.'
+  date: 200807
   image: '/static/img/pub/fraser_molm_2007.jpg'
-  pmid: 17573816
-  pmcid: PMC1974792
-  pdf: '/static/pdf/fraser_molm_2007.pdf'
-  pdbs:
-    - 2GKG
-    - 2I6F
-    - 2NT4
-    - 2NT3
+  pmid: 18691552
+  pmcid: PMC2720137
+  pdf: '/static/pdf/Zunder 2008 Cancer Cell.pdf'
   links:
-    - name: "Zusman Lab"
-      url: 'https://mcb.berkeley.edu/labs/zusman/'
+    - name: "Shokat Lab"
+      url: 'http://shokatlab.ucsf.edu/'
+    - name: "Studies Aim to Preempt Resistance to New Class of Cancer Drugs"
+      url: 'http://www.hhmi.org/news/studies-aim-preempt-resistance-new-class-cancer-drugs'
 
-- citation: '**Fraser JS**, Yu Z, Maxwell KL, Davidson AR. Ig-like domains on bacteriophages: a tale of promiscuity and deceit. *Journal of Molecular Biology*. 2006.'
-  date: 200606
+- citation: 'Knight ZA, Gonzalez B, Feldman ME, **Zunder ER**, Goldenberg DD, Williams O, Loewith R, Stokoe D, Balla A, Toth B, Balla T, Weiss WA, Williams RL, Shokat KM. A pharmacological map of the PI3-K family defines a role for p110alpha in insulin signaling. *Cell*. 2006.'
+  date: 200605
   image: '/static/img/pub/fraser_jmb_2006.jpg'
-  pmid: 16631788
-  pdf: '/static/pdf/fraser_jmb_2006.pdf'
+  pmid: 16647110
+  pmcid: PMC2946820
+  pdf: '/static/pdf/Knight 2006 Cell.pdf'
+  pdbs:
+    - 2CHW
+    - 2CHX
+    - 2CHZ
   links:
-    - name: "Davidson Lab"
-      url: 'http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html'
+    - name: "Shokat Lab"
+      url: 'http://shokatlab.ucsf.edu/'
+    - name: "Using isoform-specific inhibitors to target lipid kinases"
+      url: 'http://www.ncbi.nlm.nih.gov/pubmed/16647110'
+    - name: "Chemical Biology Suggests New Way to Thwart Brain Cancer"
+      url: 'http://www.hhmi.org/news/chemical-biology-suggests-new-way-thwart-brain-cancer'
+    - name: "Faculty of 1000 Evaluation"
+      url: 'http://f1000.com/prime/1032226'

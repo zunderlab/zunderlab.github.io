@@ -1,11 +1,17 @@
-- name: James Fraser
-  image: /static/img/members/fraser_new.jpg
-  altimage: /static/img/members/fraser.jpg
+- name: Eli Zunder
+  image: /static/img/members/zunder.png
+  altimage: /static/img/members/zunder.png
   position: Principal Investigator
-  email: jfraser (at) fraserlab.com
-  scholar: j3iaoR8AAAAJ
-  twitter: "fraser_lab"
-  description: 'James was an undergraduate at McGill University, where he worked in the lab of [Francois Fagotto](http://biology.mcgill.ca/faculty/fagotto/) on [Xenopus developmental biology](/publications#20974811).
+  email: ezunder (at) stanford.edu
+  scholar: -----------
+  twitter: "zunderlab"
+  description: 'After graduating from [Dartmouth College](http://www.dartmouth.edu) with a B.A. in [Biochemistry and Molecular Biology](http://biology.dartmouth.edu/), Eli moved to California in 2002 to do his Ph.D. in [Biophysics] (http://biophysics.ucsf.edu/) at [UCSF](http://www.ucsf.edu/).
+    There, he worked with [Kevan Shokat] (http://shokatlab.ucsf.edu/) to study the role of PI3K signaling in the [insulin response] and cancer by synthesizing small molecule PI3K family inhibitors and then characterizing their enzymatic specificity and physiological effects.
+    To investigate the potential for PI3K inhibitor resistance, Eli developed an activity-based assay in S. cerevisiae, which he used to screen for and identify drug-resistant and drug-sensitizing PI3K mutations.
+
+    After receiving his Ph.D. 
+
+    James was an undergraduate at McGill University, where he worked in the lab of [Francois Fagotto](http://biology.mcgill.ca/faculty/fagotto/) on [Xenopus developmental biology](/publications#20974811).
     During the summers, he returned to his hometown of Toronto and worked in [Alan Davidson''s lab](http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
 
 
