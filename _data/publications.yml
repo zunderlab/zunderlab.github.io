@@ -563,7 +563,7 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
 
 - citation: 'Knight ZA, Gonzalez B, Feldman ME, **Zunder ER**, Goldenberg DD, Williams O, Loewith R, Stokoe D, Balla A, Toth B, Balla T, Weiss WA, Williams RL, Shokat KM. A pharmacological map of the PI3-K family defines a role for p110alpha in insulin signaling. *Cell*. 2006.'
   date: 200605
-  image: '/static/img/pub/2CHW.gif'
+  image: '/static/img/pub/2CHW_alt.gif'
   pmid: 16647110
   pmcid: PMC2946820
   pdf: '/static/pdf/Knight 2006 Cell.pdf'
