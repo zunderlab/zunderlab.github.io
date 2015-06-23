@@ -21,7 +21,7 @@
       url: 'http://stemcell.stanford.edu/about/Laboratories/wernig/index.html'
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
-    - name: "Reprogramming Revealed Using a Mass-terly Strategy"
+    - name: "Stem Cell Portal: Reprogramming Revealed Using a Mass-terly Strategy"
       url: 'http://stemcellsportal.com/reprogramming-revealed-using-mass-terly-strategy/'
 
 - citation: '**Zunder ER**\*, Lujan E\*, Goltsev Y, Wernig M, and Nolan GP. A Continuous Molecular Roadmap to iPSC Reprogramming Through Progression Analysis of Single Cell Mass Cytometry. *Cell Stem Cell*. 2015. **\*contributed equally**'
@@ -37,10 +37,8 @@
       url: 'http://web.stanford.edu/group/nolan/'
     - name: "Wernig Lab"
       url: 'http://stemcell.stanford.edu/about/Laboratories/wernig/index.html'
-    - name: "Charting a map through the cellular reprogramming landscape"
+    - name: "Cell Stem Cell: Charting a map through the cellular reprogramming landscape"
       url: 'http://www.ncbi.nlm.nih.gov/pubmed/25748926'
-    - name: "Microarray datasets from reprogramming MEF fractions FACS-sorted by Oct4/Klf4/EpCAM expression"
-      url: 'http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56764'
 
 - citation: '**Zunder ER**\*, Finck R\*, Behbehani GK, Amir ED, Krishnaswamy S, Gonzalez VD, Lorang CG, Bjornson Z, Spitzer MH, Bodenmiller B, Fantl WJ, Pe’er D, Nolan GP. Palladium-based Mass-Tag Cell Barcoding with a Doublet-Filtering Scheme and Single Cell Deconvolution Algorithm. *Nature Protocols*. 2015. **\*contributed equally**'
   date: 201502
@@ -80,11 +78,9 @@
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
-    - name: "Nature: Editor's Summary"
-      url: 'http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html'
-    - name: "Nature Methods Research Highlights"
+    - name: "Nature Methods: Research Highlights"
       url: 'http://www.nature.com/nmeth/journal/v9/n10/full/nmeth.2200.html'
-    - name: "No-Mo-Slow-Flow"
+    - name: "The Scientist: No-Mo-Slow-Flow"
       url: 'http://www.the-scientist.com/?articles.view/articleNo/31538/title/No-Mo--Slow-Flow/'
 
 - citation: 'Cheng CK, Gustafson WC, Charron E, Houseman BT, **Zunder ER**, Goga A, Gray NS, Pollok B, Oakes SA, James CD, Shokat KM, Weiss WA, Fan QW. Dual blockade of lipid and cyclin-dependent kinases induces synthetic lethality in malignant glioma. *Proceedings of the National Academy of Sciences, USA.* 2012.'
@@ -108,7 +104,9 @@
   links:
     - name: "Shokat Lab"
       url: 'http://shokatlab.ucsf.edu/'
-    - name: "Studies Aim to Preempt Resistance to New Class of Cancer Drugs"
+    - name: "Cancer Cell: Drug-resistant phosphatidylinositol 3-kinase: guidance for the preemptive strike"
+      url: 'http://www.sciencedirect.com/science/article/pii/S1535610808002316'
+    - name: "HHMI: Studies Aim to Preempt Resistance to New Class of Cancer Drugs"
       url: 'http://www.hhmi.org/news/studies-aim-preempt-resistance-new-class-cancer-drugs'
 
 - citation: 'Knight ZA, Gonzalez B, Feldman ME, **Zunder ER**, Goldenberg DD, Williams O, Loewith R, Stokoe D, Balla A, Toth B, Balla T, Weiss WA, Williams RL, Shokat KM. A pharmacological map of the PI3-K family defines a role for p110alpha in insulin signaling. *Cell*. 2006.'
@@ -134,9 +132,9 @@
       url: 'http://www.gene.com/scientists/our-scientists/david-stokoe'
     - name: "Loewith Lab"
       url: 'http://www.molbio.unige.ch/eng/research_groups/loewith/lab'
-    - name: "Using isoform-specific inhibitors to target lipid kinases"
-      url: 'http://www.ncbi.nlm.nih.gov/pubmed/16647110'
-    - name: "Chemical Biology Suggests New Way to Thwart Brain Cancer"
+    - name: "Cell: Using isoform-specific inhibitors to target lipid kinases"
+      url: 'http://www.sciencedirect.com/science/article/pii/S0092867406005745'
+    - name: "HHMI: Chemical Biology Suggests New Way to Thwart Brain Cancer"
       url: 'http://www.hhmi.org/news/chemical-biology-suggests-new-way-thwart-brain-cancer'
     - name: "Faculty of 1000 Evaluation"
       url: 'http://f1000.com/prime/1032226'
