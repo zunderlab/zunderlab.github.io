@@ -3,7 +3,6 @@
   date: 201506
   image: '/static/img/pub/levine_cell_2015.jpg'
   pmid: 26095251
-  pmcid: TBD
   pdf: '/static/pdf/Levine 2015 Cell.pdf'
   links:
     - name: "Pe'er Lab"
@@ -31,8 +30,8 @@
   pmid: 25748935
   pmcid: PMC4401090
   pdf: '/static/pdf/Zunder and Lujan 2015 Cell Stem Cell.pdf'
-  cytobank_report: https://www.cytobank.org/cytobank/experiments?project=688
   geo: GSE56764
+  cytobank_report: https://www.cytobank.org/cytobank/experiments?project=688
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
