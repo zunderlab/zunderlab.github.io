@@ -513,15 +513,15 @@ Franks-Skiba KE, Li M, Brown WL, Gunnarsson HI, Adalbjornsdottir A, **Fraser JS*
     - name: "Ringer is now also available as an alpha feature in the PHENIX GUI or on the command line as mmtbx.ringer"
       url: 'http://phenix-online.org'
 
-- citation: 'Maghzal N\*, Vogt E\*, Reintsch W, **Fraser JS**, Fagotto F. The tumor-associated EpCAM regulates morphogenetic movements through intracellular signaling. *Journal of Cell Biology*. 2010.'
-  date: 201011
-  image: '/static/img/pub/fagotto_jcb_2010.jpg'
-  pmid: 20974811
-  pmcid: PMC3003323
-  pdf: '/static/pdf/fagotto_jcb_2010.pdf'
+- citation: 'Behbehani GK, Thom C, **Zunder ER**, Finck R, Gaudilliere B, Fragiadakis GK, Fantl WJ, Nolan GP. Transient partial permeabilization with saponin enables cellular barcoding prior to surface marker staining. Cytometry Part A. 2014 '
+  date: 201412
+  image: '/static/img/pub/behbehani_cytometry_2014.png'
+  pmid: 25274027
+  pmcid: PMC4361015
+  pdf: '/static/pdf/Behbehani 2014 Cytometry.pdf'
   links:
-    - name: "Fagotto Lab"
-      url: 'http://biology.mcgill.ca/faculty/fagotto/'
+    - name: "Nolan Lab"
+      url: 'http://web.stanford.edu/group/nolan/'
 
 - citation: 'Bodenmiller B\*, **Zunder ER**\*, Finck R\*, Chen TJ, Savig ES, Bruggner RV, Simonds EF, Bendall SC, Sachs K, Krutzik PO, Nolan GP. Multiplexed mass cytometry profiling of cellular states perturbed by small-molecule regulators. *Nature Biotechnology*. 2012.'
   date: 201209
