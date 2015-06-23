@@ -31,6 +31,8 @@
   pmid: 25748935
   pmcid: PMC4401090
   pdf: '/static/pdf/Zunder and Lujan 2015 Cell Stem Cell.pdf'
+  cytobank_report: https://www.cytobank.org/cytobank/experiments?project=688
+  geo: GSE56764
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
@@ -38,8 +40,6 @@
       url: 'http://stemcell.stanford.edu/about/Laboratories/wernig/index.html'
     - name: "Charting a map through the cellular reprogramming landscape"
       url: 'http://www.ncbi.nlm.nih.gov/pubmed/25748926'
-    - name: "Cytobank Report, including downloadable FCS files"
-      url: 'https://www.cytobank.org/cytobank/experiments?project=688'
     - name: "Microarray datasets from reprogramming MEF fractions FACS-sorted by Oct4/Klf4/EpCAM expression"
       url: 'http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56764'
 
@@ -49,6 +49,7 @@
   pmid: 25612231
   pmcid: PMC4347881
   pdf: '/static/pdf/Zunder and Finck 2015 Nature Protocols.pdf'
+  cytobank_report: https://www.cytobank.org/cytobank/experiments?project=645
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
@@ -58,8 +59,6 @@
       url: 'https://github.com/nolanlab/single-cell-debarcoder'
     - name: "Single-Cell Debarcoding Manual"
       url: 'https://github.com/nolanlab/single-cell-debarcoder/wiki/Debarcoding-FCS-Files'
-    - name: "Cytobank Report, including downloadable FCS files"
-      url: 'https://www.cytobank.org/cytobank/experiments?project=645'
 
 - citation: 'Behbehani GK, Thom C, **Zunder ER**, Finck R, Gaudilliere B, Fragiadakis GK, Fantl WJ, Nolan GP. Transient partial permeabilization with saponin enables cellular barcoding prior to surface marker staining. *Cytometry Part A*. 2014.'
   date: 201412
@@ -67,11 +66,10 @@
   pmid: 25274027
   pmcid: PMC4361015
   pdf: '/static/pdf/Behbehani 2014 Cytometry.pdf'
+  cytobank_report: https://www.cytobank.org/cytobank/experiments?project=627
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
-    - name: "Cytobank Report, including downloadable FCS files"
-      url: 'https://www.cytobank.org/cytobank/experiments?project=627'
 
 - citation: 'Bodenmiller B\*, **Zunder ER**\*, Finck R\*, Chen TJ, Savig ES, Bruggner RV, Simonds EF, Bendall SC, Sachs K, Krutzik PO, Nolan GP. Multiplexed mass cytometry profiling of cellular states perturbed by small-molecule regulators. *Nature Biotechnology*. 2012. **\*contributed equally**'
   date: 201209
@@ -83,8 +81,6 @@
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
-    - name: "Cytobank Report, including downloadable FCS files"
-      url: 'http://reports.cytobank.org/105/v2'
     - name: "Nature: Editor's Summary"
       url: 'http://www.nature.com/nature/journal/v462/n7273/edsumm/e091203-17.html'
     - name: "Nature Methods Research Highlights"
