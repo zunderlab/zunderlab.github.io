@@ -79,6 +79,7 @@
   pmid: 22902532
   pmcid: PMC3627543
   pdf: '/static/pdf/Bodenmiller, Zunder, and Finck 2012 Nature Biotechnology.pdf'
+  cytobank_report: http://reports.cytobank.org/105/v2
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'

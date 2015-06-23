@@ -20,6 +20,9 @@ group: publications
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
 			{% endif %}
 			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+			{% if publication.cytobank_report %}
+			<li><a href="{{publication.cytobank_report}}"> Cytobank Report with downloadable FCS files</a></li>
+			{% endif %}
 			{% if publication.pdbs %}
 			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}: 
 			{% for code in publication.pdbs %}
