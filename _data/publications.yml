@@ -1,5 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Single-cell deep profiling of surface and signaling phenotypes in pediatric acute myeloid leukemia. *Cell*. 2015. \*contributed equally'
+- citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
   date: 201506
   image: '/static/img/pub/levine_cell_2015.jpg'
   pmid: 26095251

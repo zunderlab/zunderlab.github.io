@@ -5,42 +5,13 @@
   email: ezunder (at) stanford.edu
   scholar: -----------
   twitter: "zunderlab"
-  description: 'After graduating from [Dartmouth College](http://www.dartmouth.edu) with a B.A. in [Biochemistry and Molecular Biology](http://biology.dartmouth.edu/), Eli moved to California in 2002 to do his Ph.D. in [Biophysics](http://biophysics.ucsf.edu/) at [UCSF](http://www.ucsf.edu/).
-    There, he worked with [Kevan Shokat](http://shokatlab.ucsf.edu/) to study the role of PI3K signaling in the [insulin response](/publications#16647110) and [cancer](/publications#22802621) by synthesizing small molecule PI3K family inhibitors and then characterizing their enzymatic specificity and physiological effects.
-    To investigate the potential for PI3K inhibitor resistance, Eli developed an activity-based assay in S. cerevisiae, which he used to screen for and identify drug-resistant and drug-sensitizing PI3K mutations.
+  description: "Eli received his Ph.D. in [Biophysics](http://biophysics.ucsf.edu/) from [UCSF](http://www.ucsf.edu/) in 2009. There, he worked in [Kevan Shokat's](http://shokatlab.ucsf.edu/) lab studying the role of PI3K signaling in [insulin response](/publications#16647110), [cancer](/publications#22802621), and [drug resistance](/publications#18691552).
 
-    After receiving his Ph.D. 
+  Eli did his postdoc in [Garry Nolan's](http://web.stanford.edu/group/nolan/) lab at [Stanford University](http://www.stanford.edu/). There, he developed a [cell barcoding method](/publications#25612231) for [mass cytometry](https://www.fluidigm.com/products/cytof) that he used to study [kinase inhibitor specificity across the human immune system](/publications#22902532), developed a graph-based mapping algorithm to [track iPS cell reprogramming](/publications#25748935) and [identify early reprogramming intermediates](/publications#25830878), and applied these generalizable methods to map [AML patient samples by prognosis](/publications#26095251) and organism-level organization of the mouse immune system.
 
-    James was an undergraduate at McGill University, where he worked in the lab of [Francois Fagotto](http://biology.mcgill.ca/faculty/fagotto/) on [Xenopus developmental biology](/publications#20974811).
-    During the summers, he returned to his hometown of Toronto and worked in [Alan Davidson''s lab](http://individual.utoronto.ca/davidsonlab/Davidson_Lab/Home.html) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
+  In January 2016, Eli will begin his independent career as an Assistant Professor in the [Department of Biomedical Engineering](http://bme.virginia.edu/) at the [University of Virginia](http://www.virginia.edu/).
 
-
-    He moved to California in 2005 to do his PhD in [Molecular and Cellular Biology at UC Berkeley](http://mcb.berkeley.edu).
-    There, he worked with [Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) creating  biophysical methods to characterize [protein side chain flexibility](/publications#20499387) in [high resolution](/publications#17573816) X-ray [electron density maps](/publications#24363322).
-    They applied these techniques to study connections between [conformational dynamics and enzymatic catalysis](/publications#19956261), showing that [room temperature](/publications#21918110), but not standard cryogenic, X-ray data collection could reveal the structural basis for critical functional motions.
-
-
-    Near the end of his PhD, he was an [EMBO Short-Term Fellow](http://www.embo.org/funding-awards/fellowships/short-term-fellowships) in [Dan Tawfik''s lab](http://www.weizmann.ac.il/Biological_Chemistry/scientist/Tawfik/).
-    Concurrently, he authored the problems and solutions manual for the physical chemistry textbook [The Molecules of Life](http://www.garlandscience.com/product/isbn/9780815341888) by Kuriyan, Konforti, and Wemmer.
-
-
-    In January 2011, James started his [independent career](http://fellows.ucsf.edu/) as a [QB3 at UCSF Fellow](http://qb3.ucsf.edu/events/mini-bio-james-fraser.shtml) affiliated with the [Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/).
-    In January 2013, he was appointed as an Assistant Professor in the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu) and the California Institute for Quantiative Biosciences ([QB3](http://qb3.org)).
-    The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.ucsf.edu) and [BioXFEL](https://www.bioxfel.org/), a Science and Technology Center established by the National Science Foundation.
-    We maintain a deep connection with [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/).
-
-
-    James is a recipient of the [NIH Early Independence Award](http://www.ucsf.edu/news/2011/09/10713/protein-scientist-receives-national-institutes-health-early-investigator-award), [a Pew Scholar Award](http://www.pewtrusts.org/en/projects/pew-biomedical-scholars/directory-of-pew-scholars/2014/james-s-fraser), [a Searle Scholar Award](http://pharmacy.ucsf.edu/news/2014/04/09/1/), and [a Packard Fellowship](http://www.packard.org/what-we-fund/conservation-and-science/science/packard-fellowships-for-science-and-engineering/fellowship-directory/fraser-james/).
-    In addition to all the exciting developments in the lab, James has a long standing interest in teaching computational biology with practical courses (he is the director of the [BBC PUBS class](/pubs) and the student-led programming course he developed with Lenny Teytelman and Venky Iyer [continues to this day](http://intro-prog-bioinfo-2014.wikispaces.com/)) and with [baseball statistics](http://alumni.berkeley.edu/news/california-magazine/mayjune-2007-new-food-and-farming/playing-stats) (as explained in this [awkward video](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html) with Mike Eisen).
-
-
-    Teaching Links:
-    <ul>
-    <li>[Physical Underpinnings of Biological Systems - Fall 2014](/pubs_2014)</li>
-    <li>[Mini-course: Engineering Life](/flipped)</li>
-    <li>[Physical Underpinnings of Biological Systems - Fall 2015](/pubs)</li>
-    </ul>
-    '
+  "
 
 - name: Lin Liu
   image: /static/img/members/lliu.jpg
