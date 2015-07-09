@@ -1,5 +1,5 @@
 
-## Fraser Lab Alumni
+## Zunder Lab Alumni
 
 
 {% for alum in site.data.alumni %}
