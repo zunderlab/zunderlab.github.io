@@ -1,4 +1,16 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: 'Spitzer MH\*, Gherardini PF\*, Fragiadakis GK, Bhattacharya N, Yuan RT, Hotson AN, Finck R, Carmi Y, **Zunder ER**, Fantl WJ, Bendall SC, Engleman EG, Nolan GP. A dynamic immune system reference map: system-wide organization with functional correlates. *Science*. 2015. \*contributed equally'
+  date: 201507
+  image: '/static/img/pub/spitzer_science_2015.jpg'
+  pmid: 26160952
+  pdf: '/static/pdf/Spitzer 2015 Science.pdf'
+  links:
+    - name: "Engleman Lab"
+      url: 'https://med.stanford.edu/profiles/edgar-engleman'
+    - name: "Nolan Lab"
+      url: 'http://web.stanford.edu/group/nolan/'
+    - name: "Sciencescape: Mass Cytometry: A First Time Glimpse at the Dynamic Immune System"
+      url: 'http://blog.sciencescape.org/2015/07/16/mass-cytometry-a-first-time-glimpse-at-the-dynamic-immune-system/'
 - citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
   date: 201506
   image: '/static/img/pub/levine_cell_2015.jpg'
@@ -15,7 +27,7 @@
   image: '/static/img/pub/lujan_nature_2015.png'
   pmid: 25830878
   pmcid: PMC4441548
-  pdf: '/static/pdf/Lujan and Zunder 2015 Nature.pdf'
+  pdf: '/static/pdf/Lujan 2015 Nature.pdf'
   links:
     - name: "Wernig Lab"
       url: 'http://stemcell.stanford.edu/about/Laboratories/wernig/index.html'
@@ -29,7 +41,7 @@
   image: '/static/img/pub/zunder_csc_2015.png'
   pmid: 25748935
   pmcid: PMC4401090
-  pdf: '/static/pdf/Zunder and Lujan 2015 Cell Stem Cell.pdf'
+  pdf: '/static/pdf/Zunder 2015 Cell Stem Cell.pdf'
   geo: GSE56764
   cytobank_report: https://www.cytobank.org/cytobank/experiments?project=688
   links:
@@ -45,7 +57,7 @@
   image: '/static/img/pub/zunder_natureprot_2015.png'
   pmid: 25612231
   pmcid: PMC4347881
-  pdf: '/static/pdf/Zunder and Finck 2015 Nature Protocols.pdf'
+  pdf: '/static/pdf/Zunder 2015 Nature Protocols.pdf'
   cytobank_report: https://www.cytobank.org/cytobank/experiments?project=645
   links:
     - name: "Nolan Lab"
@@ -73,7 +85,7 @@
   image: '/static/img/pub/bodenmiller_nbt_2012.png'
   pmid: 22902532
   pmcid: PMC3627543
-  pdf: '/static/pdf/Bodenmiller, Zunder, and Finck 2012 Nature Biotechnology.pdf'
+  pdf: '/static/pdf/Bodenmiller 2012 Nature Biotechnology.pdf'
   cytobank_report: http://reports.cytobank.org/105/v2
   links:
     - name: "Nolan Lab"
