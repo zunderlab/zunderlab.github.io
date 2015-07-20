@@ -4,6 +4,7 @@
   image: '/static/img/pub/spitzer_science_2015.jpg'
   pmid: 26160952
   pdf: '/static/pdf/Spitzer 2015 Science.pdf'
+  cytobank_report: http://www.cytobank.org/nolanlab/reports/Spitzer2015.html
   links:
     - name: "Engleman Lab"
       url: 'https://med.stanford.edu/profiles/edgar-engleman'
@@ -16,6 +17,7 @@
   image: '/static/img/pub/levine_cell_2015.jpg'
   pmid: 26095251
   pdf: '/static/pdf/Levine 2015 Cell.pdf'
+  cytobank_report: http://www.cytobank.org/nolanlab/reports/Levine2015.html
   links:
     - name: "Pe'er Lab"
       url: 'http://www.c2b2.columbia.edu/danapeerlab/html/'
@@ -123,7 +125,7 @@
 
 - citation: 'Knight ZA, Gonzalez B, Feldman ME, **Zunder ER**, Goldenberg DD, Williams O, Loewith R, Stokoe D, Balla A, Toth B, Balla T, Weiss WA, Williams RL, Shokat KM. A pharmacological map of the PI3-K family defines a role for p110alpha in insulin signaling. *Cell*. 2006.'
   date: 200605
-  image: '/static/img/pub/2CHW_alt.gif'
+  image: '/static/img/pub/2CHW.gif'
   pmid: 16647110
   pmcid: PMC2946820
   pdf: '/static/pdf/Knight 2006 Cell.pdf'
