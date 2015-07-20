@@ -70,6 +70,10 @@
       url: 'https://github.com/nolanlab/single-cell-debarcoder'
     - name: "Single-Cell Debarcoding Manual"
       url: 'https://github.com/nolanlab/single-cell-debarcoder/wiki/Debarcoding-FCS-Files'
+    - name: "Fluidigm Spotlight: Exploring Impossible Science"
+      url: 'https://www.fluidigm.com/articles/exploring-impossible-science'
+    - name: "Fluidigm Cell-ID 20-Plex Pd Barcoding Kit"
+      url: 'http://maxpar.fluidigm.com/product-catalog-cell-id.php'
 
 - citation: 'Behbehani GK, Thom C, **Zunder ER**, Finck R, Gaudilliere B, Fragiadakis GK, Fantl WJ, Nolan GP. Transient partial permeabilization with saponin enables cellular barcoding prior to surface marker staining. *Cytometry Part A*. 2014.'
   date: 201412
