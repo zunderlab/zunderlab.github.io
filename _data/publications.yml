@@ -1,7 +1,7 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 - citation: 'Spitzer MH\*, Gherardini PF\*, Fragiadakis GK, Bhattacharya N, Yuan RT, Hotson AN, Finck R, Carmi Y, **Zunder ER**, Fantl WJ, Bendall SC, Engleman EG, Nolan GP. A dynamic immune system reference map: system-wide organization with functional correlates. *Science*. 2015. \*contributed equally'
   date: 201507
-  image: '/static/img/pub/spitzer_science_2015.png'
+  image: '/static/img/pub/spitzer_science_2015.jpg'
   pmid: 26160952
   pdf: '/static/pdf/Spitzer 2015 Science.pdf'
   cytobank_report: http://www.cytobank.org/nolanlab/reports/Spitzer2015.html
