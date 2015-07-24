@@ -31,7 +31,7 @@ body {
   color: #F36F21;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  color: #F36F21;
+  color: #f6f6f6;
   background-color: #002654;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
@@ -71,8 +71,7 @@ body {
   }
 }
 
-/*@media (min-width: 992px) {*/
-@media (min-width: 400px) {
+@media (min-width: 992px) {
    .collapse {
        display: none !important;
    }
