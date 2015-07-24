@@ -12,6 +12,7 @@ body {
   /* border-color: #003882; */
   /*border-color: transparent;*/
   border: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .navbar-default .navbar-brand {
@@ -100,3 +101,4 @@ body {
   width: 100%; 
   height: 500px
 }
+
