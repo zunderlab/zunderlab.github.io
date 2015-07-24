@@ -35,7 +35,7 @@ body {
   background-color: #002654;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-  color: #F36F21;
+  color: #f6f6f6;
   background-color: #002654;
 }
 .navbar-default .navbar-toggle {
@@ -55,7 +55,7 @@ body {
   color: #f6f6f6;
 }
 .navbar-default .navbar-link:hover {
-  color: #fdfdfd;
+  color: #F36F21;
 }
 
 @media (max-width: 767px) {
