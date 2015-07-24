@@ -10,7 +10,8 @@ body {
 .navbar-default {
   background-color: #003882;
   /* border-color: #003882; */
-  border-color: transparent;
+  /*border-color: transparent; */
+  margin-bottom: 0;
 }
 
 .navbar-default .navbar-brand {
@@ -68,7 +69,7 @@ body {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #fdfdfd;
-    background-color: #668a75;
+    background-color: #002654 ;
   }
 }
 
