@@ -2,17 +2,14 @@
 ---
 
 body {
-  /*padding-top: 60px;
-  padding-bottom: 40px;*/
-  padding-top: 50px;
+  /*padding-top: 60px;*/
+  padding-top: 50px; /* changed this to be the same height as the navbar so there is no gap between navbar and header image */
   padding-bottom: 40px;
 }
 
 
 .navbar-default {
   background-color: #003882;
-  /* border-color: #003882; */
-  /*border-color: transparent;*/
   border: 0 !important;
   margin-bottom: 0 !important;
 }
