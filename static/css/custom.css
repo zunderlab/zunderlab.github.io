@@ -58,7 +58,8 @@ body {
   color: #fdfdfd;
 }
 
-@media (max-width: 700px) {
+/*@media (max-width: 767px) {*/
+@media (max-width: 400px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #f6f6f6;
   }
