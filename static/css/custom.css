@@ -7,6 +7,10 @@ body {
   padding-bottom: 40px;
 }
 
+.jumbotron {
+  margin-top: 30px !important;
+}
+
 
 .navbar-default {
   background-color: #003882;
