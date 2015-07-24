@@ -58,8 +58,7 @@ body {
   color: #fdfdfd;
 }
 
-/*@media (max-width: 767px) {*/
-@media (max-width: 400px) {
+@media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #f6f6f6;
   }
@@ -72,7 +71,8 @@ body {
   }
 }
 
-@media (min-width: 992px) {
+/*@media (min-width: 992px) {*/
+@media (min-width: 400px) {
    .collapse {
        display: none !important;
    }
