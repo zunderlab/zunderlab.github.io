@@ -106,5 +106,6 @@ body {
 }
 
 .custom-header-container {
-  background-color: linear-gradient(to right, #000000 0%,#003882 100%);
+  /*background-color: linear-gradient(to right, #000000 0%,#003882 100%);*/
+  background-color: blue;
 }
