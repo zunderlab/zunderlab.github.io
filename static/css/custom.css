@@ -107,7 +107,8 @@ body {
 
 .img-responsive-custom-header {
   display: block;
+  width: 100% \9;
   max-width: 100%;
   height: auto;
-  max-height: 196px;
+  background: linear-gradient(to right, #000000 0%,#003882 100%);
 }
