@@ -43,6 +43,6 @@ Charlottesville, VA 22908
 ***
 # Directions to the Zunder Lab
 
-<div>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d785.6757358486628!2d-78.5006906!3d38.0307042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b38646d08e10dd%3A0xeb07925bcac4e88f!2sMedical+Research+Buildings!5e0!3m2!1sen!2sus!4v1437681667509" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="google-maps">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d785.6757358486628!2d-78.5006906!3d38.0307042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b38646d08e10dd%3A0xeb07925bcac4e88f!2sMedical+Research+Buildings!5e0!3m2!1sen!2sus!4v1437681667509" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

@@ -109,3 +109,18 @@ body {
   background: linear-gradient(to right, black 0%, black 50%,#003882 50%,#003882 100%);
   /*background-color: blue;*/
 }
+
+.google-maps {
+  position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
+}
+
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; !important;
+  height: 100%; !important;
+}
