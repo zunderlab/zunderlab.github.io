@@ -2,8 +2,8 @@
 ---
 
 body {
-  /*padding-top: 60px;*/
-  padding-top: 50px; /* changed this to be the same height as the navbar so there is no gap between navbar and header image */
+  padding-top: 60px;
+  /*padding-top: 50px; /* this was to make it the same height as the navbar so there is no gap between navbar and header image -- changed back now though*/
   padding-bottom: 40px;
 }
 
@@ -122,5 +122,5 @@ body {
   top: 0;
   left: 0;
   width: 100%; !important;
-  height: 100%; !important;
+  height: 50%; !important;
 }
