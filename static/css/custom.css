@@ -78,7 +78,8 @@ body {
     background-color: #002654 ;
   }
   .jumbotron {
-    padding-left: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
     /*padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
