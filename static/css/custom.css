@@ -89,7 +89,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 32px;
+    font-size: 36px;
   }
 }
 @media (min-width: 481px) and (max-width: 640px) {
@@ -101,7 +101,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 32px;
+    font-size: 36px;
   }
 }
 
