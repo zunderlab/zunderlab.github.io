@@ -77,6 +77,18 @@ body {
     color: #fdfdfd;
     background-color: #002654 ;
   }
+  .jumbotron {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .container .jumbotron {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 24px;
+  }
 }
 
 @media (min-width: 992px) {
