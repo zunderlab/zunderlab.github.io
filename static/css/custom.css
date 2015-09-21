@@ -68,7 +68,7 @@ body {
   color: #fdfdfd;
 }
 
-@media (max-width: 342px) {
+@media (max-width: 346px) {
   .jumbotron {
     padding-left: 20px;
     padding-right: 20px;
@@ -80,7 +80,7 @@ body {
     font-size: 28px;
   }
 }
-@media (min-width: 343px) and (max-width: 370px) {
+@media (min-width: 347px) and (max-width: 382px) {
   .jumbotron {
     padding-left: 32px;
     padding-right: 32px;
@@ -92,7 +92,7 @@ body {
     font-size: 32px;
   }
 }
-@media (min-width: 371px) and (max-width: 407px) {
+@media (min-width: 383px) and (max-width: 417px) {
   .jumbotron {
     padding-left: 36px;
     padding-right: 36px;
@@ -104,7 +104,7 @@ body {
     font-size: 36px;
   }
 }
-@media (min-width: 408px) and (max-width: 435px) {
+@media (min-width: 418px) and (max-width: 453px) {
   .jumbotron {
     padding-left: 40px;
     padding-right: 40px;
@@ -116,7 +116,7 @@ body {
     font-size: 40px;
   }
 }
-@media (min-width: 436px) and (max-width: 463px) {
+@media (min-width: 454px) and (max-width: 489px) {
   .jumbotron {
     padding-left: 44px;
     padding-right: 44px;
@@ -128,7 +128,7 @@ body {
     font-size: 44px;
   }
 }
-@media (min-width: 464px) and (max-width: 519px) {
+@media (min-width: 490px) and (max-width: 519px) {
   .jumbotron {
     padding-left: 48px;
     padding-right: 48px;
