@@ -68,7 +68,7 @@ body {
   color: #fdfdfd;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 342px) {
   .jumbotron {
     padding-left: 20px;
     padding-right: 20px;
@@ -80,7 +80,19 @@ body {
     font-size: 28px;
   }
 }
-@media (min-width: 321px) and (max-width: 360px) {
+@media (min-width: 343px) and (max-width: 360px) {
+  .jumbotron {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 32px;
+  }
+}
+@media (min-width: 361px) and (max-width: 420px) {
   .jumbotron {
     padding-left: 30px;
     padding-right: 30px;
