@@ -91,6 +91,9 @@ body {
   .jumbotron .h1 {
     font-size: 28px;
   }
+  .navbar-header {
+    padding-bottom: 200px;
+  }
 
 }
 
