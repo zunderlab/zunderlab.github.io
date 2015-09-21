@@ -91,6 +91,10 @@ body {
   .jumbotron .h1 {
     font-size: 28px;
   }
+  .navbar {
+    margin-bottom: 100px;
+  }
+
 }
 
 
