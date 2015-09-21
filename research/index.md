@@ -18,10 +18,10 @@ In order to study the complex mixtures of rapidly changing cell types that occur
 
 <img class="img-responsive center-block" src="/static/img/research/CyTOF Overview Diagram.png" alt="CyTOF Overview">
 
-Each single-cell measurement represents a molecular "snapshot" in time. We seek to stitch these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools to track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into this analysis.
+Each single-cell measurement represents a molecular "snapshot" in time. We seek to connect these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into our analysis.
 
 <img class="img-responsive center-block" src="/static/img/research/Layout.gif" alt="Force-directed Layout">
 
-By tracing the molecular path of differentiation, we can identify molecular factors that may play a role in differentiation.  We can test these, and identify markers that are important.  This information will be valueable because we can use it to learn about normal and disease development and to improve regenerative transplantation therapy.
+Our goal is to apply these tools to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
 
-[include new picture for transplantation / regenerative medicine]
+<img class="img-responsive center-block" src="/static/img/research/Regenerative Medicine Overview.png" alt="Regenerative Medicine Overview">
