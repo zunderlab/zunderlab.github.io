@@ -66,6 +66,7 @@ body {
   color: #fdfdfd;
 }
 
+/*
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #f6f6f6;
@@ -111,6 +112,22 @@ body {
   }
 }
 
+@media screen and (min-width: 768px) and (max-width: 768px) {
+  .jumbotron {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .container .jumbotron {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 63px;
+  }
+}
+
+*/
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
