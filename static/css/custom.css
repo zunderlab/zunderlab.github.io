@@ -70,10 +70,10 @@ body {
 
 @media (max-width: 321px) {
   .jumbotron {
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
