@@ -83,10 +83,14 @@ body {
     padding-top: 5px;
     padding-bottom: 5px;
   }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 40px;
+  }
 }
 
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
    .collapse {
        display: none !important;
    }
