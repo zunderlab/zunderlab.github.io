@@ -106,10 +106,10 @@ body {
 }
 @media (min-width: 398px) and (max-width: 500px) {
   .jumbotron {
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
