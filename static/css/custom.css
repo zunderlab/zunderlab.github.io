@@ -85,7 +85,8 @@ body {
   }
 }
 
-@media (min-width: 992px) {
+
+@media (min-width: 768px) {
    .collapse {
        display: none !important;
    }
