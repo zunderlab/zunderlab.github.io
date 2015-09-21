@@ -4,8 +4,6 @@ layout: default
 group: research
 ---
 
-<h1>Research</h1>
-
 ## Research in the Zunder lab is focused on discovering the mechanisms that control stem cell fate.
 
 
