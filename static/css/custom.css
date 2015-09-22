@@ -192,8 +192,8 @@ body {
   .container .jumbotron {
     padding-left: 48px;
     padding-right: 48px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
@@ -240,8 +240,8 @@ body {
   .container .jumbotron {
     padding-left: 64px;
     padding-right: 64px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
