@@ -12,6 +12,7 @@
       url: 'http://web.stanford.edu/group/nolan/'
     - name: "Sciencescape: Mass Cytometry: A First Time Glimpse at the Dynamic Immune System"
       url: 'http://blog.sciencescape.org/2015/07/16/mass-cytometry-a-first-time-glimpse-at-the-dynamic-immune-system/'
+
 - citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
   date: 201506
   image: '/static/img/pub/levine_cell_2015.jpg'
@@ -23,6 +24,8 @@
       url: 'http://www.c2b2.columbia.edu/danapeerlab/html/'
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
+    - name: "From mass cytometry to cancer prognosis"
+      url: 'http://www.nature.com/nbt/journal/v33/n9/abs/nbt.3346.html'
 
 - citation: 'Lujan E\*, **Zunder ER**\*, Nolan GP, Wernig M.  Early regulators of iPSC reprogramming identified by a novel set of transient intermediates. *Nature*. 2015. **\*contributed equally**'
   date: 201505
