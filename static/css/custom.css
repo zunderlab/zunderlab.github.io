@@ -140,7 +140,7 @@ body {
     font-size: 48px;
   }
 }
-@media (min-width: 520px) and (max-width: 720px) {
+@media (min-width: 520px) and (max-width: 561px) {
   .jumbotron {
     padding-left: 56px;
     padding-right: 56px;
@@ -149,10 +149,21 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 56px;
+    font-size: 52px;
   }
 }
-
+@media (min-width: 562px) and (max-width: 700px) {
+  .jumbotron {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 60px;
+  }
+}
 
 /*
 @media (max-width: 767px) {
