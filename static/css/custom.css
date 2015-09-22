@@ -203,7 +203,7 @@ body {
 @media (min-width: 797px) and (max-width: 1200px) {
   .jumbotron {
     padding-left: 56px;
-    padding-right: 65px;
+    padding-right: 56px;
     padding-top: 25px;
     padding-bottom: 25px;
   }
