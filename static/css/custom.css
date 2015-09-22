@@ -200,7 +200,19 @@ body {
     font-size: 48px;
   }
 }
-@media (min-width: 773px) and (max-width: 880px) {
+@media (min-width: 773px) and (max-width: 826px) {
+  .container .jumbotron {
+    padding-left: 56px;
+    padding-right: 56px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 56px;
+  }
+}
+@media (min-width: 827px) and (max-width: 880px) {
   .container .jumbotron {
     padding-left: 56px;
     padding-right: 56px;
