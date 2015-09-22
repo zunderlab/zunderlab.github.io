@@ -132,8 +132,8 @@ body {
   .jumbotron {
     padding-left: 48px;
     padding-right: 48px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
@@ -142,14 +142,14 @@ body {
 }
 @media (min-width: 520px) and (max-width: 720px) {
   .jumbotron {
-    padding-left: 35px;
-    padding-right: 35px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-left: 56px;
+    padding-right: 56px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 64px;
+    font-size: 56px;
   }
 }
 
