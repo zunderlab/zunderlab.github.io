@@ -15,7 +15,7 @@ group: contact
   Assistant Professor  <br>
   Department of Biomedical Engineering  <br>
   School of Engineering and Applied Science  <br>
-  School of Medicine
+  School of Medicine <br>
   current email: ezunder (at) stanford.edu <br>
   tel: 434 982 387 zero
 
