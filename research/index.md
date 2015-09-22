@@ -39,7 +39,7 @@ group: research
 
 
 <br><br>
-### Our goal is to apply these tools to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
+### Using these experimental and computational tools, our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
 
 
 <br><br>
