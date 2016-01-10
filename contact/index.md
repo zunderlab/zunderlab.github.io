@@ -17,7 +17,7 @@ group: contact
   School of Engineering and Applied Science  <br>
   School of Medicine <br>
   <br>
-  ezunder (#!) virginia.edu <br>
+  email: ezunder (#!) virginia.edu <br>
   tel: 434 924 137 one
 
 </div>
