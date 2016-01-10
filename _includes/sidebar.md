@@ -10,4 +10,4 @@ Assistant Professor
 Department of Biomedical Engineering
 University of Virginia
 
-current email: eli.zunder#!atanford.edu
+email: eli.zunder (#!) virginia.edu

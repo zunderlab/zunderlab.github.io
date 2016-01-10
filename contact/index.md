@@ -18,7 +18,7 @@ group: contact
   School of Medicine <br>
   <br>
   ezunder (at) virginia.edu <br>
-  tel: 434 982 387 zero
+  tel: 434 924 137 one
 
 </div>
 
@@ -36,6 +36,7 @@ Biomedical Engineering and Biomedical Science Building<br>
 MR5 Room 2220<br>
 415 Lane Road<br>
 Charlottesville, VA 22908
+tel: 434 924 164 nine
 
 </div>
 
