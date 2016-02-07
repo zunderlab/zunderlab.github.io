@@ -15,6 +15,7 @@ group: research
 
 
 <br><br>
+
 ### The central aim of our research is to discover the molecular mechanisms that control stem cell behavior. Specifically, we are working to identify factors that control the progression and branch points of stem cell differentiation.
 
 
@@ -23,6 +24,7 @@ group: research
 
 
 <br><br>
+
 ### In order to study the complex mixtures of rapidly changing cell types that occur during *in vitro* and *in vivo* differentiation, we use single-cell analysis methods such as mass cytometry, which provides a detailed molecular picture of each cell with a throughput of one million cells per hour.
 
 
@@ -31,6 +33,7 @@ group: research
 
 
 <br><br>
+
 ### Each single-cell measurement represents a molecular "snapshot" in time. We seek to connect these "snapshots" together in order to recreate the molecular history of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time. We have found force-directed graph layout algorithms to be useful for this purpose, and are working to incorporate additional factors such as timepoint and cell lineage into our analysis.
 
 
@@ -39,6 +42,7 @@ group: research
 
 
 <br><br>
+
 ### Using these experimental and computational tools, our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.
 
 
