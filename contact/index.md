@@ -24,7 +24,7 @@ group: contact
 
 </div>
 
-***
+
 # Lab Address
 
 <div class="row">
@@ -42,7 +42,7 @@ tel: 434 924 164 nine
 
 </div>
 
-***
+
 # Directions to the Zunder Lab
 
 <div class="google-maps">
