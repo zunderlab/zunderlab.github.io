@@ -1,4 +1,13 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+- citation: 'Frei AP\*, Bava FA\*, **Zunder ER**, Hsieh EW, Chen SY, Nolan GP, Gherardini PF. Highly multiplexed simultaneous detection of RNAs and proteins in single cells. *Nat Methods*. 2016. \*contributed equally'
+  date: 201601
+  image: '/static/img/pub/frei_nm_2016.jpg'
+  pmid: 26808670
+  pdf: '/static/pdf/Frei 2016 Nature Methods.pdf'
+  links:
+    - name: "Nolan Lab"
+      url: 'http://web.stanford.edu/group/nolan/'
+
 - citation: 'Spitzer MH\*, Gherardini PF\*, Fragiadakis GK, Bhattacharya N, Yuan RT, Hotson AN, Finck R, Carmi Y, **Zunder ER**, Fantl WJ, Bendall SC, Engleman EG, Nolan GP. A dynamic immune system reference map: system-wide organization with functional correlates. *Science*. 2015. \*contributed equally'
   date: 201507
   image: '/static/img/pub/spitzer_science_2015.jpg'
