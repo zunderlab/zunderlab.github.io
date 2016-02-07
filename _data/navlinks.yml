@@ -26,6 +26,6 @@
 #   link: "/links"
 #   group: links
 
-name: private
+- name: private
 link: "https://sites.google.com/site/zunderlab/"
 group: private
