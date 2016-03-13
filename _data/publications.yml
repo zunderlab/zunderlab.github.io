@@ -1,5 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: 'Frei AP\*, Bava FA\*, **Zunder ER**, Hsieh EW, Chen SY, Nolan GP, Gherardini PF. Highly multiplexed simultaneous detection of RNAs and proteins in single cells. *Nat Methods*. 2016. \*contributed equally'
+- citation: 'Frei AP\*, Bava FA\*, **Zunder ER**, Hsieh EW, Chen SY, Nolan GP, Gherardini PF. Highly multiplexed simultaneous detection of RNAs and proteins in single cells. *Nature Methods*. 2016. \*contributed equally'
   date: 201601
   image: '/static/img/pub/frei_nm_2016.jpg'
   pmid: 26808670
