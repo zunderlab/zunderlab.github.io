@@ -7,9 +7,9 @@
   links:
     - name: "Nolan Lab"
       url: 'http://web.stanford.edu/group/nolan/'
-      name: "PLAYRDesign Software"
+    - name: "PLAYRDesign Software"
       url: 'https://github.com/nolanlab/PLAYRDesign'
-      name: "Nature Education Bio 2.0 Blog: Rapid RNA analysis at a single cell level: a PLAYR's story"
+    - name: "Nature Education Bio 2.0 Blog: Rapid RNA analysis at a single cell level: a PLAYR's story"
       url: 'http://www.nature.com/scitable/blog/bio2.0/rapid_rna_analysis_at_a'
 
 - citation: 'Spitzer MH\*, Gherardini PF\*, Fragiadakis GK, Bhattacharya N, Yuan RT, Hotson AN, Finck R, Carmi Y, **Zunder ER**, Fantl WJ, Bendall SC, Engleman EG, Nolan GP. A dynamic immune system reference map: system-wide organization with functional correlates. *Science*. 2015. \*contributed equally'
