@@ -26,11 +26,12 @@
   description: "Corey, originally from Allentown, Pennsylvania, is a Biomedical Engineering PhD student at UVA. He attended the University of Pittsburgh, earning a BS in Bioengineering and a minor in Chemistry. His research focuses on in vitro cardiomyocyte differentiation and its relation to embryonic heart development."
   
   
-  name: Amy Van Deusen
+- name: Amy Van Deusen
   position: Graduate Student
   email: alv5b@virginia.edu
   
-  name: Sarah Goggin
+- name: Sarah Goggin
+  image: /static/img/members/SMG_Broad-Headshot_crop.jpg
   position: Graduate Student
   email: sg4dm@virginia.edu
   twitter: https://twitter.com/Sarah_M_Goggin
