@@ -1,9 +1,8 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 - citation: 'Melissa E. Ko\*, **Corey M. Williams\***, **Kristen I. Fread**, **Sarah M. Goggin**, **Rohit S. Rustagi**, Gabriela K. Fragiadakis, Garry P. Nolan & **Eli R. Zunder**. FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets. *Nature Protocols*. 2020. \*contributed equally'
   date: 202001
-  image: '/static/img/pub/frei_nm_2016.jpg'
-  pmid: 26808670
-  pdf: '/static/pdf/Frei 2016 Nature Methods.pdf'
+  image: '/static/img/pub/ko_williams_np_2020.jpg'
+  pdf: '/static/pdf/Ko Williams 2020 Nature Protocols.pdf'
   links:
     - name: "FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets"
       url: 'https://www.nature.com/articles/s41596-019-0246-3'
